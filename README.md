@@ -25,4 +25,7 @@ https://github.com/YUTO-KOBAYASHI-CHUO/twittersearch/blob/7cfc44fde0120baa6c6309
 #### 7. アウトプットするフォルダパスを指定  
 https://github.com/YUTO-KOBAYASHI-CHUO/twittersearch/blob/7cfc44fde0120baa6c63091fdcbd38e3064a6cb5/twittersearch/__main__.py#L37-L40
 #### 8. プロジェクト内に指定したファイルを作成  
+https://github.com/YUTO-KOBAYASHI-CHUO/twittersearch/blob/7cfc44fde0120baa6c63091fdcbd38e3064a6cb5/twittersearch/__main__.py#L33-L35
 #### 9. 実行  
+main()を実行します。  
+https://github.com/YUTO-KOBAYASHI-CHUO/twittersearch/blob/7cfc44fde0120baa6c63091fdcbd38e3064a6cb5/twittersearch/__main__.py#L11
