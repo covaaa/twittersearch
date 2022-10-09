@@ -25,7 +25,7 @@ def main():
     end_seconds = 0
     end_milliseconds = 0
 
-    query = "@yuukikikuchi -is:retweet"
+    query = ""
     max_results = 100
 
     project_path = os.getcwd()
