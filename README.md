@@ -13,6 +13,9 @@ pythonのバージョン及び使用しているパッケージはpipfileを参�
 #### 1. Twitter の Developer Portal からトークンを取得 
 #### 2. ローカル環境に clone を作成  
 #### 3. .env を作成  
+```
+BEARER_TOKEN="ここにトークンを挿入"
+```
 #### 4. 取得したい期間を指定  
 https://github.com/YUTO-KOBAYASHI-CHUO/twittersearch/blob/7cfc44fde0120baa6c63091fdcbd38e3064a6cb5/twittersearch/__main__.py#L12-L26
 #### 5. 取得したいクエリを設定  
