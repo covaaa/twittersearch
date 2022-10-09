@@ -14,8 +14,12 @@ pythonのバージョン及び使用しているパッケージはpipfileを参�
 #### 2. ローカル環境に clone を作成  
 #### 3. .env を作成  
 #### 4. 取得したい期間を指定  
+https://github.com/YUTO-KOBAYASHI-CHUO/twittersearch/blob/7cfc44fde0120baa6c63091fdcbd38e3064a6cb5/twittersearch/__main__.py#L12-L26
 #### 5. 取得したいクエリを設定  
+https://github.com/YUTO-KOBAYASHI-CHUO/twittersearch/blob/7cfc44fde0120baa6c63091fdcbd38e3064a6cb5/twittersearch/__main__.py#L28
 #### 6. アウトプットするファイル名を指定  
+https://github.com/YUTO-KOBAYASHI-CHUO/twittersearch/blob/7cfc44fde0120baa6c63091fdcbd38e3064a6cb5/twittersearch/__main__.py#L33-L35
 #### 7. アウトプットするフォルダパスを指定  
+https://github.com/YUTO-KOBAYASHI-CHUO/twittersearch/blob/7cfc44fde0120baa6c63091fdcbd38e3064a6cb5/twittersearch/__main__.py#L37-L40
 #### 8. プロジェクト内に指定したファイルを作成  
 #### 9. 実行  
